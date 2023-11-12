@@ -12,7 +12,7 @@ This is a web based application developed for a educational website named Dgital
 ## Azure Technologyies used for the project🪄
 - Azure Bot.
 - Static Web App.
---> Used Language Studio for creation of bot. 
+- ⁕Used Language Studio for creation of bot. 
 ## Features✨
 
 - A responsive and dynamic user interface.
