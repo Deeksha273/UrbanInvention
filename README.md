@@ -18,7 +18,7 @@ To address these challenges, we propose an innovative online educational website
 ## Azure Technologyies used for the project🪄
 - Azure Bot. --> Used Language Studio for creation of bot.
 - Static Web App.
--  
+  
 ## Features✨
 
 - A responsive and dynamic user interface.
