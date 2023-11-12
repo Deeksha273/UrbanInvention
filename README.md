@@ -7,8 +7,8 @@ This is a web based application developed for a educational website named Dgital
 
 **Project Link** -https://agreeable-ground-069289000.4.azurestaticapps.net/
 
+**Demo Video** -https://www.youtube.com/watch?v=s5d3boCCe4I  
 
-**Demo Video** -  
 ## Azure Technologyies used for the project
 ⁕ Azure Bot
 ⁕ Static Web App
@@ -24,20 +24,25 @@ This is a web based application developed for a educational website named Dgital
 
 ## Screenshots 📸
 ### Home page -   
-![Screenshot (40)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/397c8e93-a00f-488e-877a-0a09bbc1862c)
+![Screenshot (78)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/b748f260-3d3a-40ea-a1ab-d4d581083dc9)
+
 
 ### About page -
-![Screenshot (44)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/3d947d36-1421-435a-b2aa-1e923327fc2c)
-![Screenshot (45)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/818341a8-437a-4031-ac8c-ed0e0501d0b3)
+![Screenshot (74)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/709aba34-09ba-457b-ac2c-0553052b977c)
+
+![Screenshot (76)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/ac32620f-75bf-4ab8-99eb-fef37d03b805)
+
 
 ### Team page -
-![Screenshot (46)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/fce435e5-bb18-4a7e-8f88-98f621acc6e8)
+![Screenshot (77)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/b1835046-f456-4a8e-aedb-c366e4b2dc83)
+
 
 ### Courses Page -
-![Screenshot (48)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/56edf967-60ce-487a-a93e-bae75918b483)
+![Screenshot (80)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/67be57a9-623a-4c3c-b219-f6d8945ca808)
 
 ### Contact Page -
-![Screenshot (49)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/24f11237-2dc3-41a9-9932-4cbca9d77e24)
+![Screenshot (75)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/d9f4e7f4-f4f7-46bf-a4e5-7068ffa491be)
+
 
 ### Bot Page -
 ![Screenshot (73)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/22f92018-9be5-4d8a-8a4e-057c96d5170f)
