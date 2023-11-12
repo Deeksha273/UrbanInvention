@@ -12,6 +12,7 @@ This is a web based application developed for a educational website named Dgital
 ## Azure Technologyies used for the project
 ⁕ Azure Bot
 ⁕ Static Web App
+⁕ Language resourse
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
@@ -38,6 +39,8 @@ This is a web based application developed for a educational website named Dgital
 ### Contact Page -
 ![Screenshot (49)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/24f11237-2dc3-41a9-9932-4cbca9d77e24)
 
+### Bot Page -
+![Screenshot (73)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/22f92018-9be5-4d8a-8a4e-057c96d5170f)
 
 ## Tech Stack 💻
 
