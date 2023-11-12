@@ -9,10 +9,10 @@ This is a web based application developed for a educational website named Dgital
 
 **Demo Video** -https://www.youtube.com/watch?v=s5d3boCCe4I 
 
-**Problem Statement** 
+## Problem Statement 
 With the rapid growth of the internet and digital technologies, online education has become increasingly popular.
 
-**Project Solution** 
+## Project Solution
 To address these challenges, we propose an innovative online educational website, named "DigitalEdu," that aims to revolutionize the way students learn and access education.
 
 ## Azure Technologyies used for the project🪄
