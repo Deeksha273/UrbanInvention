@@ -53,4 +53,4 @@ This is a web based application developed for a educational website named Dgital
 - HTML
 - CSS
 - Bootstrap
-- JavaScriptps
+- JavaScript
