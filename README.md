@@ -7,7 +7,13 @@ This is a web based application developed for a educational website named Dgital
 
 **Project Link** -https://agreeable-ground-069289000.4.azurestaticapps.net/
 
-**Demo Video** -https://www.youtube.com/watch?v=s5d3boCCe4I  
+**Demo Video** -https://www.youtube.com/watch?v=s5d3boCCe4I 
+
+**Problem Statement** 
+With the rapid growth of the internet and digital technologies, online education has become increasingly popular.
+
+**Project Solution** 
+To address these challenges, we propose an innovative online educational website, named "DigitalEdu," that aims to revolutionize the way students learn and access education.
 
 ## Azure Technologyies used for the project🪄
 - Azure Bot.
@@ -20,6 +26,10 @@ This is a web based application developed for a educational website named Dgital
 - Possess visually appealing architecture and design.
 - Contains a compilation of numerous webpages, such as Home, About, Courses, Contact, and Bot.
 - The user can get in touch with the website to view the courses and associated fees.
+- Personalized Learning
+- Interactive Learning
+- Accessibility
+- Quality Control
 
 
 ## Screenshots 📸
