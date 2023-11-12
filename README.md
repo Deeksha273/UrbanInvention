@@ -9,17 +9,17 @@ This is a web based application developed for a educational website named Dgital
 
 **Demo Video** -https://www.youtube.com/watch?v=s5d3boCCe4I  
 
-## Azure Technologyies used for the project
-⁕ Azure Bot
-⁕ Static Web App
-⁕ Language resourse
-## Features and Functionalities 😃
+## Azure Technologyies used for the project🪄
+⁕ Azure Bot.
+⁕ Static Web App.
+--> Used Language Studio for creation of bot 
+## Features✨
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About,Courses,Contact.
-- User is able to contact with the website and see the courses and cost to be paid.
+- A responsive and dynamic user interface.
+- Features a ton of creative graphic and visual effects.
+- Possess visually appealing architecture and design.
+- Contains a compilation of numerous webpages, such as Home, About, Courses, Contact, and Bot.
+- The user can get in touch with the website to view the courses and associated fees.
 
 
 ## Screenshots 📸
