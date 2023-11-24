@@ -15,9 +15,11 @@ With the rapid growth of the internet and digital technologies, online education
 ## Project Solution
 To address these challenges, we propose an innovative online educational website, named "DigitalEdu," that aims to revolutionize the way students learn and access education.
 
-## Azure Technologyies used for the project🪄
-- Azure Bot. --> Used Language Studio for creation of bot.
+## Azure Technologies used for the project🪄
+- Azure AI Bot. --> Used Language Studio for creation of bot.
 - Static Web App.
+- App Service
+- AI language
   
 ## Features✨
 
@@ -33,6 +35,9 @@ To address these challenges, we propose an innovative online educational website
 
 
 ## Screenshots 📸
+### Azure Technologies -
+![Screenshot (82)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/7a02861b-25e9-4a74-bad2-2732130f41bf)
+
 ### Home page -   
 ![Screenshot (78)](https://github.com/Deeksha273/UrbanInvention/assets/144249352/b748f260-3d3a-40ea-a1ab-d4d581083dc9)
 
