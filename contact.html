@@ -151,7 +151,7 @@
                                 </div>
                                 <p class="mb-sm-5 mb-4">Get contact with our team by filling your details.</p>
                             </div>
-                            
+                            <form name= "myForm" onSubmit ="message()">
                                 <div class="twice-two">
                                     <input type="text" class="form-control" name="w3lName" id="w3lName"
                                         placeholder="Name" required="">
@@ -165,7 +165,7 @@
                                 <textarea name="w3lMessage" class="form-control" id="w3lMessage" placeholder="Message"
                                     required=""></textarea>
                                 <div class="text-right">
-                                    <button type="submit" class="btn btn-primary btn-style mt-4" onclick = "message()">Send Message</button>
+                                    <button type="submit" class="btn btn-primary btn-style mt-4" >Send Message</button>
                                 </div>
                                 
                          
@@ -321,9 +321,9 @@
     <script>
         function message()
             {   
-                var x= document.getElementById('w3lName');
-                var y= document.getElementById('w3lSender');
-                var z= document.getElementById('w3lMessage');
+                var x= document.myForm.w3lName.value;
+                var y= document.myForm.w3lSender.value;
+                var z= document.myForm.w3lMessage.value;
                 if(x == null|| y == null ||z == null)
                 alert("All fields required");
              else
