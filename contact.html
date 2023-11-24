@@ -167,11 +167,27 @@
                                 <div class="text-right">
                                     <button type="submit" class="btn btn-primary btn-style mt-4">Send Message</button>
                                 </div>
-                            <div class="pop-up-content-wrap">
-                                 <span class="btn btn-primary btn-style mt-4"onclick="submit"></span>
-                                Message sent Successfully.
-                            </div>
+                            <form id="messageForm">
+                                    <input type="submit" value="Submit" onclick="sendMessage(event)">
+                                     </form>
+
+                         <div class="message" id="successMessage">Message sent successfully</div>
                             </form>
+                            <script>
+    function sendMessage(event) {
+      event.preventDefault(); // Prevents the form from submitting normally
+
+      // Your code to send the message goes here
+
+      // Display success message
+      document.getElementById("successMessage").style.display = "block";
+
+      // Optional: Hide the success message after a certain time
+      setTimeout(function() {
+        document.getElementById("successMessage").style.display = "none";
+      }, 3000); // Hides the message after 3 seconds (3000 milliseconds)
+    }
+  </script>
                         </div>
                     </div>
                 </div>
