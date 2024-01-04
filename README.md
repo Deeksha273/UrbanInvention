@@ -2,7 +2,7 @@
 ✨DIGITALEDU by URBANINVENTION✨
 This is a web based application developed for a educational website named DgitalEdu powered by UrbanInvention.
 
-### This web based online Edicational application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based online Educational application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://agreeable-ground-069289000.4.azurestaticapps.net/
