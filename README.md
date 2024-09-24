@@ -67,5 +67,4 @@ To address these challenges, we propose an innovative online educational website
 - Azure(Hosting)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
